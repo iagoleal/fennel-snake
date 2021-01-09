@@ -1,4 +1,4 @@
-(local cellWidth 25)
+(local cellWidth 40)
 (local cellNum {:x 20
                 :y 14})
 (local timerLimit 0.1)
